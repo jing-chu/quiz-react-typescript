@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.1fd919a0.chunk.js",
-    "main.js.map": "/static/js/main.1fd919a0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83a486d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83a486d1.js.map",
-    "static/js/2.8b8a2194.chunk.js": "/static/js/2.8b8a2194.chunk.js",
-    "static/js/2.8b8a2194.chunk.js.map": "/static/js/2.8b8a2194.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2fa7f388f34e03e5582cbfbb827a0e77.js": "/precache-manifest.2fa7f388f34e03e5582cbfbb827a0e77.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.8b8a2194.chunk.js.LICENSE.txt": "/static/js/2.8b8a2194.chunk.js.LICENSE.txt",
-    "static/media/solen.jpg": "/static/media/solen.9720dd81.jpg"
+    "main.js": "/quiz-react-typescript/static/js/main.1fd919a0.chunk.js",
+    "main.js.map": "/quiz-react-typescript/static/js/main.1fd919a0.chunk.js.map",
+    "runtime-main.js": "/quiz-react-typescript/static/js/runtime-main.303b16d4.js",
+    "runtime-main.js.map": "/quiz-react-typescript/static/js/runtime-main.303b16d4.js.map",
+    "static/js/2.7ea0504a.chunk.js": "/quiz-react-typescript/static/js/2.7ea0504a.chunk.js",
+    "static/js/2.7ea0504a.chunk.js.map": "/quiz-react-typescript/static/js/2.7ea0504a.chunk.js.map",
+    "index.html": "/quiz-react-typescript/index.html",
+    "precache-manifest.552c1765f4d0e47fc2c17ca84d8ffa29.js": "/quiz-react-typescript/precache-manifest.552c1765f4d0e47fc2c17ca84d8ffa29.js",
+    "service-worker.js": "/quiz-react-typescript/service-worker.js",
+    "static/js/2.7ea0504a.chunk.js.LICENSE.txt": "/quiz-react-typescript/static/js/2.7ea0504a.chunk.js.LICENSE.txt",
+    "static/media/solen.jpg": "/quiz-react-typescript/static/media/solen.9720dd81.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83a486d1.js",
-    "static/js/2.8b8a2194.chunk.js",
+    "static/js/runtime-main.303b16d4.js",
+    "static/js/2.7ea0504a.chunk.js",
     "static/js/main.1fd919a0.chunk.js"
   ]
 }
